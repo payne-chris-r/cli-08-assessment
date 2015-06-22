@@ -33,18 +33,22 @@ Open up this file in your text editor, and write your answers below (where indic
 
 <!-- Answer Starts Here -->
 
+Abosolute, because / is shorthand for the root directory, and we're given a set of folders that follow.'
+
 <!-- Answer Ends Here -->
 
 2. Suppose that we're working on a project, and we want to use a font that's being hosted somewhere on the internet. Would we use an absolute or relative path to refer to it? Why?
 
 <!-- Answer Starts Here -->
 
+Absolute. If you're referencing something on the internet you'll want to use an absolute directory because it doesn't live within your project. The only issue with this is if they decide to move the file (font in this case) you're screwed.'
+
 <!-- Answer Ends Here -->
 
 3. Now suppose that we have an image file living inside our project. Would we refer to it with an absolute or relative path? Why?
 
 <!-- Answer Starts Here -->
-
+Relative. In order to keep the path up to date in the event we move the file, we'd want to use a relative path.'
 <!-- Answer Ends Here -->
 
 <hr>
